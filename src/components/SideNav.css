@@ -1,0 +1,7 @@
+.side-main{
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #172121;
+}
