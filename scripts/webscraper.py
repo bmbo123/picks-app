@@ -1,6 +1,10 @@
 import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
+pd.set_option('display.max_columns', 500)
+
+
+
 
 pp_props_url = 'https://api.prizepicks.com/projections?league_id=7&per_page=250&single_stat=true'
 headers = {
