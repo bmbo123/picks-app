@@ -1,0 +1,39 @@
+.p-box{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    background-color: #fff;
+    margin: 16px;
+    justify-content: center;
+    align-items: center;
+}
+.p-name{
+    display: block;
+}
+.p-picture {
+    background-color: black;
+    left: 50%;
+    width: 100%;
+    height: 70%;
+}   
+.over-under{
+    display:flex;
+    flex-direction: row;
+    height: 25%;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.over,.under{
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    width: 40%;
+    height: 30px;
+}

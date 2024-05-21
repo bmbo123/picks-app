@@ -74,3 +74,33 @@
       @apply bg-background text-foreground;
     }
   }
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: aqua;
+}
+
+.main-content {
+  display: flex;
+  flex: 1; 
+  overflow: hidden;
+}
+
+.side-nav {
+  width: 200px;
+  background-color: #333;
+  color: #fff;
+}
+
+
+.prop-list {
+  display: flex;  
+  flex-wrap: wrap; 
+  padding: 16px;
+  flex: 1; 
+  overflow-y: auto; 
+  justify-content: center;
+  background-color: beige;
+}

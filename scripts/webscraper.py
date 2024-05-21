@@ -1,12 +1,8 @@
 import requests
 from bs4 import BeautifulSoup as bs
-import pandas as pd
-pd.set_option('display.max_columns', 500)
+import json
 
-
-
-
-pp_props_url = 'https://api.prizepicks.com/projections?league_id=7&per_page=250&single_stat=true'
+url = 'https://api.prizepicks.com/projections?league_id=7&per_page=250&single_stat=true&projection_type_id=1&sort=player_name'
 headers = {
 'Connection': 'keep-alive',
 'Accept': 'application/json; charset=UTF-8',
@@ -18,8 +14,14 @@ headers = {
 'Accept-Encoding': 'gzip, deflate, br',
 'Accept-Language': 'en-US,en;q=0.9'
 }
+## organize intop
+response = requests.get(url, headers=headers)
 
-r = requests.get(pp_props_url, headers=headers)
-print(r)
-df = pd.json_normalize(r.json()['data'])
-print(df)
+if response.status_code == 403:
+    print("Access denied. Please check your headers and authentication.")
+else:
+    print(response.json())
+
+JSONDATA = response.json()
+with open('data.json', 'w') as f:
+    json.dump(JSONDATA, f)
