@@ -1,0 +1,946 @@
+{
+  "included": [
+    {
+      "type": "stat_type",
+      "id": "20",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Assists",
+        "rank": 3
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "187519",
+      "attributes": {
+        "combo": false,
+        "display_name": "P.J. Washington",
+        "image_url": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "P.J. Washington",
+        "position": "F",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "427",
+      "attributes": {
+        "lfg_ignored_leagues": [7],
+        "name": "Rebounds (Combo)",
+        "rank": 10
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "199001",
+      "attributes": {
+        "combo": true,
+        "display_name": "Jayson Tatum + P.J. Washington",
+        "image_url": "https://static.prizepicks.com/images/manual/Jayson Tatum + P.J. Washington.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Jayson Tatum + P.J. Washington",
+        "position": "F",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "19",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Points",
+        "rank": 1
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "25436",
+      "attributes": {
+        "combo": false,
+        "display_name": "Josh Green",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Josh_Green_bda65c13-f2d4-43ec-b058-b7807bec4867.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Josh Green",
+        "position": "G",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "243",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Pts+Rebs",
+        "rank": 18
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "244",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Pts+Asts",
+        "rank": 19
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "1535",
+      "attributes": {
+        "combo": false,
+        "display_name": "Jaylen Brown",
+        "image_url": "https://static.prizepicks.com/images/manual/JaylenBrown_Headshot.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Jaylen Brown",
+        "position": "G-F",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "386",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "FG Attempted",
+        "rank": 12
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "58830",
+      "attributes": {
+        "combo": false,
+        "display_name": "Luka Doncic",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Luka Doncic",
+        "position": "F-G",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "189815",
+      "attributes": {
+        "combo": true,
+        "display_name": "Jayson Tatum + Kyrie Irving",
+        "image_url": "https://static.prizepicks.com/images/manual/Jayson Tatum + Kyrie Irving.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Jayson Tatum + Kyrie Irving",
+        "position": "G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "79952",
+      "attributes": {
+        "combo": false,
+        "display_name": "Jaden Hardy",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Jaden_Hardy_a8d25a06-b47e-4a08-a945-7bf0dd945584.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Jaden Hardy",
+        "position": "G",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198992",
+      "attributes": {
+        "combo": true,
+        "display_name": "Jaylen Brown + Luka Doncic",
+        "image_url": "https://static.prizepicks.com/images/manual/Jaylen Brown + Luka Doncic.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Jaylen Brown + Luka Doncic",
+        "position": "G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "21",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Blocked Shots",
+        "rank": 23
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "25443",
+      "attributes": {
+        "combo": false,
+        "display_name": "Payton Pritchard",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Payton_Pritchard_0718c0e1-7804-471a-b4ed-cde778948d4d.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Payton Pritchard",
+        "position": "G",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198994",
+      "attributes": {
+        "combo": true,
+        "display_name": "Al Horford + Daniel Gafford",
+        "image_url": "https://static.prizepicks.com/images/manual/Al Horford + Daniel Gafford.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Al Horford + Daniel Gafford",
+        "position": "C/F",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "426",
+      "attributes": {
+        "lfg_ignored_leagues": [7],
+        "name": "Assists (Combo)",
+        "rank": 10
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "31",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "3-PT Made",
+        "rank": 3
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "245",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Rebs+Asts",
+        "rank": 25
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "22",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Rebounds",
+        "rank": 2
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198996",
+      "attributes": {
+        "combo": true,
+        "display_name": "Kristaps Porzingis + Dereck Lively II",
+        "image_url": "https://static.prizepicks.com/images/manual/Kristaps Porzingis + Dereck Lively II.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Kristaps Porzingis + Dereck Lively II",
+        "position": "F/C",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "173626",
+      "attributes": {
+        "combo": false,
+        "display_name": "Jrue Holiday",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Jrue_Holiday_65700e81-3aa0-49a9-8a94-004f2cfb64e5.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Jrue Holiday",
+        "position": "G",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "55410",
+      "attributes": {
+        "combo": false,
+        "display_name": "Al Horford",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Al_Horford_cf3a87ec-c2f7-42e8-9698-6f8b2ba916a9.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Al Horford",
+        "position": "C-F",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "2067",
+      "attributes": {
+        "combo": false,
+        "display_name": "Maxi Kleber",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Maxi_Kleber_3ef70a50-cd0d-4148-a1ad-ca830a1a9046.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Maxi Kleber",
+        "position": "F",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection_type",
+      "id": "2",
+      "attributes": {
+        "name": "Single Stat"
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "185458",
+      "attributes": {
+        "combo": true,
+        "display_name": "Jaylen Brown + Kyrie Irving",
+        "image_url": "https://static.prizepicks.com/images/manual/Jaylen Brown + Kyrie Irving.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Jaylen Brown + Kyrie Irving",
+        "position": "G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198998",
+      "attributes": {
+        "combo": true,
+        "display_name": "Jrue Holiday + Kyrie Irving ",
+        "image_url": "https://static.prizepicks.com/images/manual/Jrue Holiday + Kyrie Irving.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Jrue Holiday + Kyrie Irving ",
+        "position": "G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "199000",
+      "attributes": {
+        "combo": true,
+        "display_name": "Derrick White + Kyrie Irving",
+        "image_url": "https://static.prizepicks.com/images/manual/Derrick White + Kyrie Irving.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Derrick White + Kyrie Irving",
+        "position": "G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "96236",
+      "attributes": {
+        "combo": false,
+        "display_name": "Kyrie Irving",
+        "image_url": "https://static.prizepicks.com/images/manual/KyrieIrving_StarHeadshot.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Kyrie Irving",
+        "position": "G",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "174345",
+      "attributes": {
+        "combo": false,
+        "display_name": "Dereck Lively II",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Dereck_Lively_1b31afe2-7fb7-42d1-8eef-003c5eb619c2.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Dereck Lively II",
+        "position": "C",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "league",
+      "id": "7",
+      "attributes": {
+        "active": true,
+        "f2p_enabled": true,
+        "icon": "basketball",
+        "image_url": "https://static.prizepicks.com/images/leagues/production/26.svg",
+        "last_five_games_enabled": true,
+        "league_icon_id": 26,
+        "name": "NBA",
+        "projections_count": 0,
+        "rank": 1,
+        "show_trending": false
+      },
+      "relationships": {
+        "projection_filters": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "185457",
+      "attributes": {
+        "combo": true,
+        "display_name": "Jayson Tatum + Luka Doncic",
+        "image_url": "https://static.prizepicks.com/images/manual/Jayson Tatum + Luka Doncic.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Jayson Tatum + Luka Doncic",
+        "position": "F/G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "105",
+      "attributes": {
+        "lfg_ignored_leagues": null,
+        "name": "Blks+Stls",
+        "rank": 31
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "68",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Free Throws Made",
+        "rank": 11
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "425",
+      "attributes": {
+        "lfg_ignored_leagues": [7, 8],
+        "name": "Points (Combo)",
+        "rank": 0
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198993",
+      "attributes": {
+        "combo": true,
+        "display_name": "Derrick White + P.J. Washington",
+        "image_url": "https://static.prizepicks.com/images/manual/Derrick White + P.J. Washington.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Derrick White + P.J. Washington",
+        "position": "G/F",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198997",
+      "attributes": {
+        "combo": true,
+        "display_name": "Jrue Holiday + Luka Doncic",
+        "image_url": "https://static.prizepicks.com/images/manual/Jrue Holiday + Luka Doncic.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Jrue Holiday + Luka Doncic",
+        "position": "G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "106",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Pts+Rebs+Asts",
+        "rank": 1
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "174354",
+      "attributes": {
+        "combo": false,
+        "display_name": "Derrick Jones Jr.",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Derrick_Jones_54cf6e06-9172-44b8-8d3b-ea1b6926553d.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Derrick Jones Jr.",
+        "position": "F",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198999",
+      "attributes": {
+        "combo": true,
+        "display_name": "Derrick White + Luka Doncic",
+        "image_url": "https://static.prizepicks.com/images/manual/Derrick White + Luka Doncic.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Derrick White + Luka Doncic",
+        "position": "G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "1266",
+      "attributes": {
+        "combo": false,
+        "display_name": "Jayson Tatum",
+        "image_url": "https://static.prizepicks.com/images/manual/JaysonTatum_StarHeadshot.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Jayson Tatum",
+        "position": "F-G",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "14",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Fantasy Score",
+        "rank": 3
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "60021",
+      "attributes": {
+        "combo": false,
+        "display_name": "Derrick White",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Derrick_White_9bcd5cff-4a1c-4454-89b6-a5899b0c6bcc.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Derrick White",
+        "position": "G",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "187518",
+      "attributes": {
+        "combo": false,
+        "display_name": "Daniel Gafford",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Daniel Gafford",
+        "position": "F-C",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "198995",
+      "attributes": {
+        "combo": true,
+        "display_name": "Kristaps Porzingis + Luka Doncic",
+        "image_url": "https://static.prizepicks.com/images/manual/Kristaps Porzingis + Luka Doncic.png",
+        "league": "NBA",
+        "league_id": 7,
+        "market": null,
+        "name": "Kristaps Porzingis + Luka Doncic",
+        "position": "F/G",
+        "team": "BOS/DAL",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "385",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Dunks",
+        "rank": 18
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "23",
+      "attributes": {
+        "lfg_ignored_leagues": null,
+        "name": "Steals",
+        "rank": 24
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "173120",
+      "attributes": {
+        "combo": false,
+        "display_name": "Kristaps Porzingis",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Kristaps_Porzingis_3c5901ef-af1d-441d-aeed-8e0a93cead49.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Kristaps Porzingis",
+        "position": "F-C",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "85744",
+      "attributes": {
+        "combo": false,
+        "display_name": "Sam Hauser",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Sam_Hauser_f5aac467-6bf9-4fa3-b89a-9ef71fe546fa.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Sam Hauser",
+        "position": "F",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "7"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "428",
+      "attributes": {
+        "lfg_ignored_leagues": [7],
+        "name": "3-PT Made (Combo)",
+        "rank": 10
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "392",
+      "attributes": {
+        "lfg_ignored_leagues": [3],
+        "name": "3-PT Attempted",
+        "rank": 8
+      }
+    },
+    {
+      "type": "projection_type",
+      "id": "1",
+      "attributes": {
+        "name": "Fantasy Score"
+      }
+    }
+  ],
+  "links": {
+    "self": "partner-api.prizepicks.com/projections?per_page=10&league_id=7"
+  },
+  "meta": {
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

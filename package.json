@@ -8,7 +8,9 @@
     "@testing-library/user-event": "^13.5.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "express": "^4.19.2",
     "lucide-react": "^0.378.0",
+    "node-fetch": "^3.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -44,5 +46,10 @@
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3"
-  }
+  },
+  "description": "**Easy Picks** is a React-based application that leverages machine learning to generate and rank picks for fantasy sports platforms like PrizePicks and Underdog. It offers a streamlined user interface allowing users to easily navigate between different platforms and view the machine learning ranked picks alongside historical data and performance metrics.",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
