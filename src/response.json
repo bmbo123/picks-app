@@ -1,103 +1,2122 @@
 {
+  "data": [
+    {
+      "type": "projection",
+      "id": "2593222",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 18.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 150,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:43:50-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "60021" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593242",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:50:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 8,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 150,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T08:41:01-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "60021" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "245" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593235",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:48:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 18.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 150,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:50:08-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "60021" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593166",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:30:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 4,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 150,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebounds",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T08:46:47-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "60021" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "22" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593204",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:41:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 22.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 150,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:41:47-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "60021" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593129",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 14.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 150,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:21:39-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "60021" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593182",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:34:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 4,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 150,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Assists",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T08:42:14-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "60021" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "20" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593332",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:10:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 1.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 151,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Blks+Stls",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:13:26-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187518" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "105" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593223",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 14.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 151,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:16:08-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187518" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593130",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 8.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 151,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:21:59-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187518" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593327",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:06:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 0.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 152,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Blocked Shots",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:12:07-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1535" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "21" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593224",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 28,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 152,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T11:19:37-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1535" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593329",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:08:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 1.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 152,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Steals",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:12:03-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1535" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "23" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593131",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 21.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 152,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T11:19:37-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1535" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593168",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:30:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 6,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 152,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebounds",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T08:53:10-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1535" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "22" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593205",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:41:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 31.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 152,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:29:00-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1535" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593236",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:48:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 25.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 152,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:29:40-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1535" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593132",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 8.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 153,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:21:59-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "174354" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593321",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:02:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 10.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 153,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:05:47-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "174354" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593330",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:08:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 0.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 153,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Steals",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:12:03-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "174354" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "23" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593133",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 25.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 154,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:22:19-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1266" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593237",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:48:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 31.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 154,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:48:28-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1266" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593333",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:10:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 1.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 154,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Blks+Stls",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:12:45-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1266" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "105" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593226",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 35.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 154,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:46:59-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1266" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593206",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:41:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 41.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 154,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:16:54-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1266" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593303",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:53:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 2.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 154,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "3-PT Made",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:56:47-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "1266" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "31" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593134",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 23.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 155,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:31:43-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "96236" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593238",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:48:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 28.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 155,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:30:10-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "96236" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593207",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:41:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 32.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 155,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:30:36-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "96236" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593227",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 27.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 155,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:32:06-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "96236" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593304",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:53:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 2.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 155,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "3-PT Made",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:54:40-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "96236" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "31" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593171",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:30:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 4,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 155,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebounds",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T08:48:00-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "96236" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "22" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593245",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:50:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 9,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 155,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T10:26:52-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "96236" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "245" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593135",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 12.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 156,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:56:07-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173626" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593246",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:50:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 10.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 156,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:56:34-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173626" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "245" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593239",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:48:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 17.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 156,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:50:39-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173626" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593228",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 18.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 156,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:33:22-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173626" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593334",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:10:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 1.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 156,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Blks+Stls",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:47:43-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173626" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "105" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593208",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:41:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 23.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 156,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:55:33-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173626" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593136",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 33.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 157,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:44:28-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "58830" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593209",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:41:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 52.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 157,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:34:00-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "58830" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593229",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 42.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 157,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:52:48-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "58830" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593247",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:50:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 19.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 157,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T08:45:45-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "58830" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "245" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593240",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:48:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 42.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 157,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:52:03-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "58830" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593173",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:30:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 9.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 157,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebounds",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T08:55:31-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "58830" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "22" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593187",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:34:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 9.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 157,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Assists",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-09T23:35:46-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "58830" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "20" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593230",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:45:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 21.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T09:45:28-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187519" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593294",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:44:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 7.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:45:20-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "55410" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593340",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:14:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 0.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Turnovers",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:18:54-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "55410" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "24" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593335",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:10:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 1.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Blks+Stls",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:13:26-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "55410" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "105" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593309",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:57:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 16,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T09:53:04-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "55410" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593318",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:59:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 14.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:03:22-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "55410" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593331",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:08:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 0.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Steals",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:09:52-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "55410" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "23" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593137",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-09T23:21:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 14.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 158,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:45:29-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187519" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593325",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:04:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 8.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 159,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:09:22-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187519" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "245" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593322",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:02:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 15.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 159,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:06:59-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187519" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593310",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:57:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 22.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 159,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:58:44-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "187519" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593319",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:59:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 18.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 160,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:04:37-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173120" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593305",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:53:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 1.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 160,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "3-PT Made",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:55:02-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173120" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "31" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593311",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:57:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 20,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 160,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T10:19:46-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173120" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "106" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593295",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:44:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 13.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 160,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:46:45-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173120" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593328",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:06:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 1.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 160,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Blocked Shots",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:10:16-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173120" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "21" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593323",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:02:00-04:00",
+        "custom_image": null,
+        "description": "DAL",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 14.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 160,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Asts",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:10:25-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "173120" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "244" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593296",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:44:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 6.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 161,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Points",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:46:08-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "174345" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "19" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593320",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:59:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 13,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 161,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Pts+Rebs",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T11:16:01-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "174345" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "243" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593337",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T01:10:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 0.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 164,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "Blks+Stls",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T01:13:27-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "2067" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "105" } }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2593308",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-06-10T00:53:00-04:00",
+        "custom_image": null,
+        "description": "BOS",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "game_id": "50b170b9-37e2-47d0-b517-e56ebb960cba",
+        "is_promo": false,
+        "line_score": 0.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 164,
+        "refundable": true,
+        "start_time": "2024-06-12T20:40:00-04:00",
+        "stat_type": "3-PT Made",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-06-10T00:56:47-04:00"
+      },
+      "relationships": {
+        "duration": { "data": null },
+        "league": { "data": { "type": "league", "id": "7" } },
+        "new_player": { "data": { "type": "new_player", "id": "2067" } },
+        "projection_type": { "data": { "type": "projection_type", "id": "2" } },
+        "stat_type": { "data": { "type": "stat_type", "id": "31" } }
+      }
+    }
+  ],
   "included": [
+    {
+      "type": "new_player",
+      "id": "60021",
+      "attributes": {
+        "combo": false,
+        "display_name": "Derrick White",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Derrick_White_9bcd5cff-4a1c-4454-89b6-a5899b0c6bcc.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Derrick White",
+        "position": "G",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
+    },
     {
       "type": "stat_type",
       "id": "20",
-      "attributes": {
-        "lfg_ignored_leagues": [],
-        "name": "Assists",
-        "rank": 3
-      }
+      "attributes": { "lfg_ignored_leagues": [], "name": "Assists", "rank": 3 }
     },
     {
       "type": "new_player",
-      "id": "187519",
+      "id": "2067",
       "attributes": {
         "combo": false,
-        "display_name": "P.J. Washington",
-        "image_url": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp",
+        "display_name": "Maxi Kleber",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Maxi_Kleber_3ef70a50-cd0d-4148-a1ad-ca830a1a9046.webp",
         "league": "NBA",
         "league_id": 7,
         "market": "Dallas",
-        "name": "P.J. Washington",
+        "name": "Maxi Kleber",
         "position": "F",
         "team": "DAL",
         "team_name": "Mavericks"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "427",
-      "attributes": {
-        "lfg_ignored_leagues": [7],
-        "name": "Rebounds (Combo)",
-        "rank": 10
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "199001",
-      "attributes": {
-        "combo": true,
-        "display_name": "Jayson Tatum + P.J. Washington",
-        "image_url": "https://static.prizepicks.com/images/manual/Jayson Tatum + P.J. Washington.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Jayson Tatum + P.J. Washington",
-        "position": "F",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "19",
-      "attributes": {
-        "lfg_ignored_leagues": [],
-        "name": "Points",
-        "rank": 1
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "25436",
-      "attributes": {
-        "combo": false,
-        "display_name": "Josh Green",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Josh_Green_bda65c13-f2d4-43ec-b058-b7807bec4867.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Dallas",
-        "name": "Josh Green",
-        "position": "G",
-        "team": "DAL",
-        "team_name": "Mavericks"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
       "type": "stat_type",
@@ -119,36 +2138,20 @@
     },
     {
       "type": "new_player",
-      "id": "1535",
+      "id": "187518",
       "attributes": {
         "combo": false,
-        "display_name": "Jaylen Brown",
-        "image_url": "https://static.prizepicks.com/images/manual/JaylenBrown_Headshot.png",
+        "display_name": "Daniel Gafford",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp",
         "league": "NBA",
         "league_id": 7,
-        "market": "Boston",
-        "name": "Jaylen Brown",
-        "position": "G-F",
-        "team": "BOS",
-        "team_name": "Celtics"
+        "market": "Dallas",
+        "name": "Daniel Gafford",
+        "position": "F-C",
+        "team": "DAL",
+        "team_name": "Mavericks"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "386",
-      "attributes": {
-        "lfg_ignored_leagues": [],
-        "name": "FG Attempted",
-        "rank": 12
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
       "type": "new_player",
@@ -165,160 +2168,71 @@
         "team": "DAL",
         "team_name": "Mavericks"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
       "type": "new_player",
-      "id": "189815",
-      "attributes": {
-        "combo": true,
-        "display_name": "Jayson Tatum + Kyrie Irving",
-        "image_url": "https://static.prizepicks.com/images/manual/Jayson Tatum + Kyrie Irving.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Jayson Tatum + Kyrie Irving",
-        "position": "G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "79952",
+      "id": "173120",
       "attributes": {
         "combo": false,
-        "display_name": "Jaden Hardy",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Jaden_Hardy_a8d25a06-b47e-4a08-a945-7bf0dd945584.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Dallas",
-        "name": "Jaden Hardy",
-        "position": "G",
-        "team": "DAL",
-        "team_name": "Mavericks"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "198992",
-      "attributes": {
-        "combo": true,
-        "display_name": "Jaylen Brown + Luka Doncic",
-        "image_url": "https://static.prizepicks.com/images/manual/Jaylen Brown + Luka Doncic.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Jaylen Brown + Luka Doncic",
-        "position": "G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "21",
-      "attributes": {
-        "lfg_ignored_leagues": [],
-        "name": "Blocked Shots",
-        "rank": 23
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "25443",
-      "attributes": {
-        "combo": false,
-        "display_name": "Payton Pritchard",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Payton_Pritchard_0718c0e1-7804-471a-b4ed-cde778948d4d.webp",
+        "display_name": "Kristaps Porzingis",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Kristaps_Porzingis_3c5901ef-af1d-441d-aeed-8e0a93cead49.webp",
         "league": "NBA",
         "league_id": 7,
         "market": "Boston",
-        "name": "Payton Pritchard",
-        "position": "G",
+        "name": "Kristaps Porzingis",
+        "position": "F-C",
         "team": "BOS",
         "team_name": "Celtics"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
       "type": "new_player",
-      "id": "198994",
+      "id": "1266",
       "attributes": {
-        "combo": true,
-        "display_name": "Al Horford + Daniel Gafford",
-        "image_url": "https://static.prizepicks.com/images/manual/Al Horford + Daniel Gafford.png",
+        "combo": false,
+        "display_name": "Jayson Tatum",
+        "image_url": "https://static.prizepicks.com/images/manual/JaysonTatum_StarHeadshot.png",
         "league": "NBA",
         "league_id": 7,
-        "market": null,
-        "name": "Al Horford + Daniel Gafford",
-        "position": "C/F",
-        "team": "BOS/DAL",
-        "team_name": null
+        "market": "Boston",
+        "name": "Jayson Tatum",
+        "position": "F-G",
+        "team": "BOS",
+        "team_name": "Celtics"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
-      "type": "stat_type",
-      "id": "426",
+      "type": "new_player",
+      "id": "187519",
       "attributes": {
-        "lfg_ignored_leagues": [7],
-        "name": "Assists (Combo)",
-        "rank": 10
-      }
+        "combo": false,
+        "display_name": "P.J. Washington",
+        "image_url": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "P.J. Washington",
+        "position": "F",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
+    },
+    {
+      "type": "projection_type",
+      "id": "2",
+      "attributes": { "name": "Single Stat" }
     },
     {
       "type": "stat_type",
-      "id": "31",
+      "id": "24",
       "attributes": {
         "lfg_ignored_leagues": [],
-        "name": "3-PT Made",
-        "rank": 3
+        "name": "Turnovers",
+        "rank": 33
       }
     },
     {
@@ -332,186 +2246,16 @@
     },
     {
       "type": "stat_type",
-      "id": "22",
-      "attributes": {
-        "lfg_ignored_leagues": [],
-        "name": "Rebounds",
-        "rank": 2
-      }
+      "id": "19",
+      "attributes": { "lfg_ignored_leagues": [], "name": "Points", "rank": 1 }
     },
     {
-      "type": "new_player",
-      "id": "198996",
+      "type": "stat_type",
+      "id": "23",
       "attributes": {
-        "combo": true,
-        "display_name": "Kristaps Porzingis + Dereck Lively II",
-        "image_url": "https://static.prizepicks.com/images/manual/Kristaps Porzingis + Dereck Lively II.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Kristaps Porzingis + Dereck Lively II",
-        "position": "F/C",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "173626",
-      "attributes": {
-        "combo": false,
-        "display_name": "Jrue Holiday",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Jrue_Holiday_65700e81-3aa0-49a9-8a94-004f2cfb64e5.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Boston",
-        "name": "Jrue Holiday",
-        "position": "G",
-        "team": "BOS",
-        "team_name": "Celtics"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "55410",
-      "attributes": {
-        "combo": false,
-        "display_name": "Al Horford",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Al_Horford_cf3a87ec-c2f7-42e8-9698-6f8b2ba916a9.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Boston",
-        "name": "Al Horford",
-        "position": "C-F",
-        "team": "BOS",
-        "team_name": "Celtics"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "2067",
-      "attributes": {
-        "combo": false,
-        "display_name": "Maxi Kleber",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Maxi_Kleber_3ef70a50-cd0d-4148-a1ad-ca830a1a9046.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Dallas",
-        "name": "Maxi Kleber",
-        "position": "F",
-        "team": "DAL",
-        "team_name": "Mavericks"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "projection_type",
-      "id": "2",
-      "attributes": {
-        "name": "Single Stat"
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "185458",
-      "attributes": {
-        "combo": true,
-        "display_name": "Jaylen Brown + Kyrie Irving",
-        "image_url": "https://static.prizepicks.com/images/manual/Jaylen Brown + Kyrie Irving.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Jaylen Brown + Kyrie Irving",
-        "position": "G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "198998",
-      "attributes": {
-        "combo": true,
-        "display_name": "Jrue Holiday + Kyrie Irving ",
-        "image_url": "https://static.prizepicks.com/images/manual/Jrue Holiday + Kyrie Irving.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Jrue Holiday + Kyrie Irving ",
-        "position": "G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "199000",
-      "attributes": {
-        "combo": true,
-        "display_name": "Derrick White + Kyrie Irving",
-        "image_url": "https://static.prizepicks.com/images/manual/Derrick White + Kyrie Irving.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Derrick White + Kyrie Irving",
-        "position": "G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
+        "lfg_ignored_leagues": null,
+        "name": "Steals",
+        "rank": 24
       }
     },
     {
@@ -529,166 +2273,15 @@
         "team": "DAL",
         "team_name": "Mavericks"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "174345",
-      "attributes": {
-        "combo": false,
-        "display_name": "Dereck Lively II",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Dereck_Lively_1b31afe2-7fb7-42d1-8eef-003c5eb619c2.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Dallas",
-        "name": "Dereck Lively II",
-        "position": "C",
-        "team": "DAL",
-        "team_name": "Mavericks"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "league",
-      "id": "7",
-      "attributes": {
-        "active": true,
-        "f2p_enabled": true,
-        "icon": "basketball",
-        "image_url": "https://static.prizepicks.com/images/leagues/production/26.svg",
-        "last_five_games_enabled": true,
-        "league_icon_id": 26,
-        "name": "NBA",
-        "projections_count": 0,
-        "rank": 1,
-        "show_trending": false
-      },
-      "relationships": {
-        "projection_filters": {
-          "data": []
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "185457",
-      "attributes": {
-        "combo": true,
-        "display_name": "Jayson Tatum + Luka Doncic",
-        "image_url": "https://static.prizepicks.com/images/manual/Jayson Tatum + Luka Doncic.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Jayson Tatum + Luka Doncic",
-        "position": "F/G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
       "type": "stat_type",
-      "id": "105",
-      "attributes": {
-        "lfg_ignored_leagues": null,
-        "name": "Blks+Stls",
-        "rank": 31
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "68",
+      "id": "21",
       "attributes": {
         "lfg_ignored_leagues": [],
-        "name": "Free Throws Made",
-        "rank": 11
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "425",
-      "attributes": {
-        "lfg_ignored_leagues": [7, 8],
-        "name": "Points (Combo)",
-        "rank": 0
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "198993",
-      "attributes": {
-        "combo": true,
-        "display_name": "Derrick White + P.J. Washington",
-        "image_url": "https://static.prizepicks.com/images/manual/Derrick White + P.J. Washington.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Derrick White + P.J. Washington",
-        "position": "G/F",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "198997",
-      "attributes": {
-        "combo": true,
-        "display_name": "Jrue Holiday + Luka Doncic",
-        "image_url": "https://static.prizepicks.com/images/manual/Jrue Holiday + Luka Doncic.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Jrue Holiday + Luka Doncic",
-        "position": "G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "106",
-      "attributes": {
-        "lfg_ignored_leagues": [],
-        "name": "Pts+Rebs+Asts",
-        "rank": 1
+        "name": "Blocked Shots",
+        "rank": 23
       }
     },
     {
@@ -706,241 +2299,128 @@
         "team": "DAL",
         "team_name": "Mavericks"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "198999",
-      "attributes": {
-        "combo": true,
-        "display_name": "Derrick White + Luka Doncic",
-        "image_url": "https://static.prizepicks.com/images/manual/Derrick White + Luka Doncic.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Derrick White + Luka Doncic",
-        "position": "G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "1266",
-      "attributes": {
-        "combo": false,
-        "display_name": "Jayson Tatum",
-        "image_url": "https://static.prizepicks.com/images/manual/JaysonTatum_StarHeadshot.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Boston",
-        "name": "Jayson Tatum",
-        "position": "F-G",
-        "team": "BOS",
-        "team_name": "Celtics"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
       "type": "stat_type",
-      "id": "14",
+      "id": "31",
       "attributes": {
         "lfg_ignored_leagues": [],
-        "name": "Fantasy Score",
+        "name": "3-PT Made",
         "rank": 3
       }
     },
     {
       "type": "new_player",
-      "id": "60021",
+      "id": "174345",
       "attributes": {
         "combo": false,
-        "display_name": "Derrick White",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Derrick_White_9bcd5cff-4a1c-4454-89b6-a5899b0c6bcc.webp",
+        "display_name": "Dereck Lively II",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Dereck_Lively_1b31afe2-7fb7-42d1-8eef-003c5eb619c2.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Dallas",
+        "name": "Dereck Lively II",
+        "position": "C",
+        "team": "DAL",
+        "team_name": "Mavericks"
+      },
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
+    },
+    {
+      "type": "league",
+      "id": "7",
+      "attributes": {
+        "active": true,
+        "f2p_enabled": true,
+        "icon": "basketball",
+        "image_url": "https://static.prizepicks.com/images/leagues/production/26.svg",
+        "last_five_games_enabled": true,
+        "league_icon_id": 26,
+        "name": "NBA",
+        "projections_count": 0,
+        "rank": 1,
+        "show_trending": false
+      },
+      "relationships": { "projection_filters": { "data": [] } }
+    },
+    {
+      "type": "stat_type",
+      "id": "106",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Pts+Rebs+Asts",
+        "rank": 1
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "55410",
+      "attributes": {
+        "combo": false,
+        "display_name": "Al Horford",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Al_Horford_cf3a87ec-c2f7-42e8-9698-6f8b2ba916a9.webp",
         "league": "NBA",
         "league_id": 7,
         "market": "Boston",
-        "name": "Derrick White",
+        "name": "Al Horford",
+        "position": "C-F",
+        "team": "BOS",
+        "team_name": "Celtics"
+      },
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
+    },
+    {
+      "type": "new_player",
+      "id": "173626",
+      "attributes": {
+        "combo": false,
+        "display_name": "Jrue Holiday",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Jrue_Holiday_65700e81-3aa0-49a9-8a94-004f2cfb64e5.webp",
+        "league": "NBA",
+        "league_id": 7,
+        "market": "Boston",
+        "name": "Jrue Holiday",
         "position": "G",
         "team": "BOS",
         "team_name": "Celtics"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "187518",
-      "attributes": {
-        "combo": false,
-        "display_name": "Daniel Gafford",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Dallas",
-        "name": "Daniel Gafford",
-        "position": "F-C",
-        "team": "DAL",
-        "team_name": "Mavericks"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "198995",
-      "attributes": {
-        "combo": true,
-        "display_name": "Kristaps Porzingis + Luka Doncic",
-        "image_url": "https://static.prizepicks.com/images/manual/Kristaps Porzingis + Luka Doncic.png",
-        "league": "NBA",
-        "league_id": 7,
-        "market": null,
-        "name": "Kristaps Porzingis + Luka Doncic",
-        "position": "F/G",
-        "team": "BOS/DAL",
-        "team_name": null
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     },
     {
       "type": "stat_type",
-      "id": "385",
-      "attributes": {
-        "lfg_ignored_leagues": [],
-        "name": "Dunks",
-        "rank": 18
-      }
+      "id": "22",
+      "attributes": { "lfg_ignored_leagues": [], "name": "Rebounds", "rank": 2 }
     },
     {
       "type": "stat_type",
-      "id": "23",
+      "id": "105",
       "attributes": {
         "lfg_ignored_leagues": null,
-        "name": "Steals",
-        "rank": 24
+        "name": "Blks+Stls",
+        "rank": 31
       }
     },
     {
       "type": "new_player",
-      "id": "173120",
+      "id": "1535",
       "attributes": {
         "combo": false,
-        "display_name": "Kristaps Porzingis",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Kristaps_Porzingis_3c5901ef-af1d-441d-aeed-8e0a93cead49.webp",
+        "display_name": "Jaylen Brown",
+        "image_url": "https://static.prizepicks.com/images/players/nba/Jaylen_Brown_ffc5579c-783f-4d62-80ab-3c3dcb05a27d.webp",
         "league": "NBA",
         "league_id": 7,
         "market": "Boston",
-        "name": "Kristaps Porzingis",
-        "position": "F-C",
+        "name": "Jaylen Brown",
+        "position": "G-F",
         "team": "BOS",
         "team_name": "Celtics"
       },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "new_player",
-      "id": "85744",
-      "attributes": {
-        "combo": false,
-        "display_name": "Sam Hauser",
-        "image_url": "https://static.prizepicks.com/images/players/nba/Sam_Hauser_f5aac467-6bf9-4fa3-b89a-9ef71fe546fa.webp",
-        "league": "NBA",
-        "league_id": 7,
-        "market": "Boston",
-        "name": "Sam Hauser",
-        "position": "F",
-        "team": "BOS",
-        "team_name": "Celtics"
-      },
-      "relationships": {
-        "league": {
-          "data": {
-            "type": "league",
-            "id": "7"
-          }
-        }
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "428",
-      "attributes": {
-        "lfg_ignored_leagues": [7],
-        "name": "3-PT Made (Combo)",
-        "rank": 10
-      }
-    },
-    {
-      "type": "stat_type",
-      "id": "392",
-      "attributes": {
-        "lfg_ignored_leagues": [3],
-        "name": "3-PT Attempted",
-        "rank": 8
-      }
-    },
-    {
-      "type": "projection_type",
-      "id": "1",
-      "attributes": {
-        "name": "Fantasy Score"
-      }
+      "relationships": { "league": { "data": { "type": "league", "id": "7" } } }
     }
   ],
   "links": {
-    "self": "partner-api.prizepicks.com/projections?per_page=10&league_id=7"
+    "self": "api.prizepicks.com/projections?league_id=7\u0026per_page=250\u0026single_stat=true\u0026projection_type_id=1\u0026sort=player_name"
   },
-  "meta": {
-    "current_page": 1,
-    "total_pages": 1
-  }
+  "meta": { "current_page": 1, "total_pages": 1 }
 }
